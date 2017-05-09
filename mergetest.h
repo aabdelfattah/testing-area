@@ -1,1 +1,1 @@
- void mergetest();
+ void mergetest3();
